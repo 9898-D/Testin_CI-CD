@@ -7,5 +7,6 @@ def bubble(arry):
                 
     return arry
 
-le=bubble([20,4,1,15,50,35])
-print(le)
+if __name__ == "__main__"
+    le=bubble([20,4,1,15,50,35])
+    print(le)
